@@ -1,0 +1,29 @@
+commit a279f9a2060fae6498466c2c15edfe9d1d84b539
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Fri Apr 11 09:32:09 2025 -0600
+
+    subiendo main
+
+commit 3d1b1e9cd3259edf2ed116159225798c1fa99210
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Fri Apr 11 09:25:02 2025 -0600
+
+    subiendo vista
+
+commit 85002871a0c5a7528c83c36b8f1e1d6057c8a048
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Fri Apr 11 09:20:06 2025 -0600
+
+    subiendomodelo
+
+commit 5b571f2f28148ae451d12779fd0ad569bdb3dde3
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Fri Apr 11 09:11:37 2025 -0600
+
+    subiendo rama controladora
+
+commit dc8d22a83489f8cb78a0dc90e3e0d1758f3bc353
+Author: vico <victorgomezcarrascosa@gmail.com>
+Date:   Fri Apr 11 08:22:00 2025 -0600
+
+    primercomit
